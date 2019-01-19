@@ -1,4 +1,4 @@
 import discord
 client=discord.Clien
-t()
+ld
 @client.event
