@@ -1,0 +1,4 @@
+import discord
+client=discord.Clien
+t()
+@client.event
