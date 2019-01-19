@@ -1,0 +1,12 @@
+import discord
+client=discord.Clien()
+@client.event
+async def on_message(message:)
+if message.author==client.user:
+return
+@client.event
+async def on_ready():
+print('Logged in as')
+print(client.user.name)
+print('_____')
+client.run(NTM1ODE4NDA3NTE4NjY2NzUz.DySlcA.L2jDShWSkXizBs58Gk8S_leCONM)
